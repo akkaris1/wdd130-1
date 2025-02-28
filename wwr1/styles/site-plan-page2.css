@@ -1,3 +1,5 @@
+/*-- https://wireframe.cc/9PTcFP  or not, use the handwritten one wfpage2.jpg  --*/  
+
 
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
@@ -11,6 +13,9 @@ Fonts are separated by a | */
   --accent1-color: #4b644a;
   --accent2-color: fff7f8;  /* snow */
   /*  poss color addition #303a2b */
+  /*  poss color addition #D4AC0D  Gold */
+  /*  poss color addition #396E94  Blue */
+
 
 
 
@@ -25,7 +30,7 @@ Fonts are separated by a | */
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
   --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;  /* I don't really like this color here, find a different one */
+  --nav-background-color: #D4AC0D;  /* the blue and gold are Alaska colors, so I am keeping them */
   --nav-hover-link-color: white;
   --nav-hover-background-color: #396E94;
 }
